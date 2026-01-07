@@ -40,7 +40,7 @@
   </project>
   <project name="meta-nxp-connectivity" remote="imx" path="sources/meta-nxp-connectivity" revision="refs/tags/rel_imx_6.12.20_2.0.0" upstream="imx_matter_2025_q1-post" />
   <project name="meta-nxp-demo-experience" remote="imx-support" path="sources/meta-nxp-demo-experience" revision="refs/tags/rel_imx_6.12.20_2.0.0" upstream="walnascar-6.12.20-2.0.0" />
-  <project name="meta-nxp-mr" remote="rudislabs" path="sources/meta-nxp-mr" revision="4d7b74dbaf1b9a1248ee7885cf95c5abae0ed6be" upstream="lf-6.12.20-2.0.0-walnascar-mr">
+  <project name="meta-nxp-mr" remote="rudislabs" path="sources/meta-nxp-mr" revision="e0e33b15e90d235b8aace7de1400bfba211c5aea" upstream="lf-6.12.20-2.0.0-walnascar-mr">
      <linkfile src="tools/imx-setup-release.sh" dest="imx-setup-release.sh"/>
   </project>
 
